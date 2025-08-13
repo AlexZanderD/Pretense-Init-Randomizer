@@ -78,7 +78,6 @@ Zone Randomizer — это удобный инструмент для DCS-мис
 
 ### **2. English**
 
-```markdown
 # 📝 Zone Randomizer User Guide
 
 ## Introduction
